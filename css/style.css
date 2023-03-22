@@ -1,0 +1,35 @@
+
+/* Main */
+main {
+    margin-top: 4.5rem;
+}
+
+
+section {
+    padding-bottom: 3rem;
+}
+
+section.novedades {
+    background-color: gray;
+    margin-bottom: 3rem;
+    padding: 3rem;
+}
+
+.novedades-allcaps {
+    text-transform: uppercase;
+}
+
+/* Footer */
+ footer {
+    background: gray;
+ }
+
+ .nav-padding {
+    margin-left: .25rem;
+    margin-right: .25rem;
+    margin-bottom: 3rem;
+ }
+
+ footer a {
+    color: white;
+ }
